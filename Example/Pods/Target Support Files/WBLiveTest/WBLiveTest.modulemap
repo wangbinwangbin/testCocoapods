@@ -1,0 +1,6 @@
+framework module WBLiveTest {
+  umbrella header "WBLiveTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

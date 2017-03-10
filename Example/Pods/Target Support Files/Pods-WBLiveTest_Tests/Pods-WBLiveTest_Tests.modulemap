@@ -1,0 +1,6 @@
+framework module Pods_WBLiveTest_Tests {
+  umbrella header "Pods-WBLiveTest_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

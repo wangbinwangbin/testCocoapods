@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WBLiveTest_Example' do
+  pod 'WBLiveTest', :path => '../'
+
+  target 'WBLiveTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

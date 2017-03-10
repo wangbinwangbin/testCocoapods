@@ -1,0 +1,16 @@
+PODS:
+  - WBLiveTest (0.1.0)
+
+DEPENDENCIES:
+  - WBLiveTest (from `../`)
+
+EXTERNAL SOURCES:
+  WBLiveTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  WBLiveTest: 20027099c9fdf75c4f1e0d839d1188f006c09d55
+
+PODFILE CHECKSUM: 589b25d0f05f115c571058f8201d3f708a37c91d
+
+COCOAPODS: 1.2.0.beta.3
